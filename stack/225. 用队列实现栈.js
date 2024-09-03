@@ -1,4 +1,3 @@
-
 var MyStack = function() {
     this.queue = [];
 };

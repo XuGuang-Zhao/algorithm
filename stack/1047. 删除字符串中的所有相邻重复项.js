@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {string}
- */
 var removeDuplicates = function(s) {
     let stack = []
     let sArr = Array.from(s)

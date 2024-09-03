@@ -1,4 +1,3 @@
-
 var MyQueue = function() {
     this.stackIn = []
     this.stackOut = []
